@@ -2,6 +2,7 @@ namespace WebAPIClient;
 
 public class Coord
 {
-    public int lon { get; set; }
-    public int lat { get; set; }
+    public float lon { get; set; }
+    public float lat { get; set; }
 }
+
